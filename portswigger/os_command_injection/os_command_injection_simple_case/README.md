@@ -1,9 +1,5 @@
 
-<p align="center">
-  <img src="./screenshots/os-command-injection-logo.png" alt="logo"/>
-</p>
-
-<h1 align="center"> PortSwigger: Lab: OS command injection, simple case </h1>
+<h1 align="center"> Lab: OS command injection, simple case </h1>
 
 <h3 align="center">
 
