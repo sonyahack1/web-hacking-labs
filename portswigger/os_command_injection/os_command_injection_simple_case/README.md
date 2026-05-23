@@ -19,6 +19,6 @@ This lab contains an OS command injection vulnerability in the product stock che
 
 The application executes a shell command containing user-supplied product and store IDs, and returns the raw output from the command in its response.
 
-Проэксплуатируем уязвимость и определим текущего пользователя
+Let’s exploit the vulnerability and determine the current user.
 
 </div>
