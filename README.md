@@ -4,7 +4,7 @@
   <img src="./screenshots/web-hacking-logo.png" alt="web-hacking-logo"/>
 </p>
 
-This repository contains my personal writeups, notes, and walkthroughs for web security labs from various platforms such as PortSwigger Web Security Academy, Hack The Box, TryHackMe, and others.
+This repository contains my personal writeups, notes, and walkthroughs for web security labs from various platforms such as `PortSwigger Web Security Academy`, `Hack The Box`, `TryHackMe`, and others.
 
 Each writeup documents the vulnerability, exploitation process, tools used, and techniques learned during the assessment.
 
